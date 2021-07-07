@@ -1,3 +1,5 @@
+#9095번
+
 def num(k) :
     if k==1 : return 1
     if k==2 : return 2
