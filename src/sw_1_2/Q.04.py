@@ -1,3 +1,4 @@
+#10972번
 N = int(input())
 s = list(map(int,input().split()))
 check = True
