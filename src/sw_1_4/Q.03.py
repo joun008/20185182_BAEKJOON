@@ -1,4 +1,4 @@
-#11724 이분 탐색
+#11724 연결 요소 찾기
 import sys
 input =sys.stdin.readline
 sys.setrecursionlimit(10000)
