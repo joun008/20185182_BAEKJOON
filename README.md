@@ -18,7 +18,7 @@ src/sw_1_2/Q.13 부분 수열 만드는 코드 - 속도 느림
 
 src/sw_1_4/Q.01 dfs의 깊이 측정하는 문제 - 굉장히 어려움 - 다시 풀이
 
-src/sw_1_4/Q.02 dfs - 재귀,stack // bfs-queue으로 구현
+src/sw_1_4/Q.02 dfs - 재귀 and stack // bfs - queue로 구현
 
 src/sw_1_4/모든 문제 재귀함수로 풀꺼면 recursion error가 상당히 많이 보임 아래와 같은 코드를 메모리에 초과하지 않도록 설정 중요!
 ```python
