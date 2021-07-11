@@ -20,7 +20,7 @@ src/sw_1_2/Q.13 부분 수열 만드는 코드 - 속도 느림
 
 src/sw_1_4/Q.01 dfs의 깊이 측정하는 문제 - 굉장히 어려움 - 다시 풀이
 
-src/sw_1_4/Q.02 dfs - 재귀 and stack // bfs - queue로 구현
+src/sw_1_4/Q.02 dfs - 재귀 and stack , bfs - queue로 구현
 
 src/sw_1_4/Q.08 토마토 문제 - dfs,bfs의 심화 들어가기전 문제
 
