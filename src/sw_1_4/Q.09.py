@@ -10,7 +10,7 @@ N,M = map(int,input().split())
 MAX = 100000
 visited =[0] * (MAX+1) //1)
 
-def dfs(N,M) :
+def bfs(N,M) :
     check=0
     queue = deque([N])
     while queue :
@@ -23,4 +23,4 @@ def dfs(N,M) :
                 visited[nx] = visited[rec]+1 
                 queue.append(nx)
 
-dfs(N,M)
+bfs(N,M)
