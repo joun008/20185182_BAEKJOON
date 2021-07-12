@@ -36,4 +36,4 @@ import sys
 sys.setrecursionlimit(10000)
 ```
 
-## src/sw_1_5 -> 다이나믹 
+## src/sw_1_5 -> 다이나믹 프로그래밍
