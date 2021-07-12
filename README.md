@@ -2,11 +2,11 @@
 
 문제들 백준->문제집->code.plus 속 챕터 순서->챕터 별 Q.??속 문제 순서
 
-## src/sw_1_1
+## src/sw_1_1 -> 수학
 
 src/sw_1_1/Q.06 골드바하의 추측
 
-## src/sw_1_2
+## src/sw_1_2 -> 브루트 포스
 
 src/sw_1_2/Q.03 1,2,3을 이용해 숫자 만드는 가지 수
 
@@ -16,7 +16,7 @@ src/sw_1_2/Q.10,Q.12 조합을 이용한 코드 (combinations) - 속도 느림
 
 src/sw_1_2/Q.13 부분 수열 만드는 코드 - 속도 느림 
 
-## src/sw_1_4
+## src/sw_1_4 -> 그래프와 BFS,DFS
 
 src/sw_1_4/Q.01 dfs의 깊이 측정하는 문제 - 굉장히 어려움 - ★
 
@@ -35,3 +35,5 @@ src/sw_1_4/모든 문제 재귀함수로 풀꺼면 recursion error가 상당히 
 import sys
 sys.setrecursionlimit(10000)
 ```
+
+## src/sw_1_5 -> 다이나믹 
