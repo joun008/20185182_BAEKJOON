@@ -41,3 +41,5 @@ sys.setrecursionlimit(10000)
 ## src/sw_1_5 -> 다이나믹 프로그래밍
 
 src/sw_1_5/Q.12 2차원 배열 점화식 만들기가 좀 어려움 - ★
+
+src/sw_1_5/Q.13 점화식 설정 - ★
