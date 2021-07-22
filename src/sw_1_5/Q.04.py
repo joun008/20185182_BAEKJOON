@@ -20,3 +20,14 @@ for k in arr :
             dp[t]=dp[t-1]+dp[t-2]+dp[t-3]
         print(dp[k])
 
+'''
+N = int(input())
+dp = [i for in range(20)]
+dp[0] = 0
+for k in range(3,len(dp)) :
+    dp[k]=dp[k-1]+dp[k-2]+dp[k-3]
+
+for j in range(N) :
+    M = int(input())
+    print(dp[M])
+'''
